@@ -1,0 +1,6 @@
+{
+       "baseUrl":"https://damian-events.coursedog.com",
+    "requestTimeout":5000,
+    "responseTimeout":30000,
+    "screenshotOnRunFailure ":true
+}

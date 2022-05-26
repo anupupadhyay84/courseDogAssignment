@@ -1,0 +1,16 @@
+{
+  "name": "automation",
+  "version": "1.0.0",
+  "description": "Learn Cypress Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run cypress",
+      "cy:open": "cypress open",
+      "cy:run":"cypress run"
+  },
+  "author": "anup.upadhyay",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^9.6.1"
+  }
+}
